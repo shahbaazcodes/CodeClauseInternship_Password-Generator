@@ -30,3 +30,7 @@ Make sure Python is installed on your system.
 
 ```bash
 python password_generator.py
+
+🖼️ Sample Output
+<img width="514" alt="Screenshot 2025-06-03 at 2 41 45 PM" src="https://github.com/user-attachments/assets/f91a216d-b9df-4267-88e7-dba9346c0b20" />
+
