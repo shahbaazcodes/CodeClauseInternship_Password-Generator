@@ -32,5 +32,6 @@ Make sure Python is installed on your system.
 python password_generator.py
 
 🖼️ Sample Output
-<img width="514" alt="Screenshot 2025-06-03 at 2 41 45 PM" src="https://github.com/user-attachments/assets/f91a216d-b9df-4267-88e7-dba9346c0b20" />
+<img width="513" alt="Image" src="https://github.com/user-attachments/assets/6c8d686b-cc07-4225-96aa-8a12e45014ff" />
+
 
