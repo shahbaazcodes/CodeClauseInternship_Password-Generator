@@ -1,4 +1,4 @@
-# 🔐 Simple Password Generator (Python Project)
+# 🔐 Simple Password Generator 
 
 This is a basic password generator I created during my internship to practice Python programming and build a small, useful tool. The goal was to let users generate secure passwords with options like uppercase letters, numbers, and symbols.
 
@@ -28,10 +28,9 @@ Make sure Python is installed on your system.
 2. Open a terminal or command prompt in that folder
 3. Run:
 
-```bash
-python password_generator.py
 
 🖼️ Sample Output
+
 <img width="513" alt="Image" src="https://github.com/user-attachments/assets/6c8d686b-cc07-4225-96aa-8a12e45014ff" />
 
 
