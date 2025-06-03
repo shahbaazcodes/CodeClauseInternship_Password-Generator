@@ -1,0 +1,4 @@
+# No external libraries needed
+# Only built-in Python modules are used: random, string
+
+python>=3.6
